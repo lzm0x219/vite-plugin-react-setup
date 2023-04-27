@@ -5,6 +5,10 @@
   "keywords": [
     "vite"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lzm0x219/vite-plugin-react-setup"
+  },
   "license": "MIT",
   "author": {
     "name": "0x219",
