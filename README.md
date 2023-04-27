@@ -1,5 +1,7 @@
 # vite-plugin-react-setup
 
+![npm](https://img.shields.io/npm/v/vite-plugin-react-setup?color=%23cb3837&style=flat-square) ![npm](https://img.shields.io/npm/dm/vite-plugin-react-setup?color=yellow&style=flat-square) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) ![NPM](https://img.shields.io/npm/l/vite-plugin-react-setup?style=flat-square)
+
 🚀 Help to enable fast development for your React project.
 
 ## Status
