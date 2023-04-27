@@ -19,7 +19,8 @@
     "prebuild": "pnpm clean",
     "build": "tsc -b",
     "clean": "del dist",
-    "dev": "tsc -w"
+    "dev": "tsc -w",
+    "prepare": "husky install"
   },
   "dependencies": {
     "vite-plugin-mkcert": "1.14.1",
