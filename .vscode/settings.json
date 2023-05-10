@@ -1,4 +1,4 @@
 {
-  "cSpell.words": ["packagejson"],
+  "cSpell.words": ["antd", "packagejson"],
   "typescript.tsdk": "node_modules/typescript/lib"
 }
