@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   vite-plugin-mkcert:
-    specifier: 1.15.0
-    version: 1.15.0(vite@4.3.9)
+    specifier: 1.16.0
+    version: 1.16.0(vite@4.3.9)
   vite-tsconfig-paths:
     specifier: 4.2.0
     version: 4.2.0(typescript@5.1.3)(vite@4.3.9)
@@ -2464,8 +2464,8 @@ packages:
       spdx-expression-parse: 3.0.1
     dev: true
 
-  /vite-plugin-mkcert@1.15.0(vite@4.3.9):
-    resolution: {integrity: sha512-0Pz7iExvo7pS2HsxMe6Y/HIrsFJidXN8Sju7tsL1XYQdbUKb/D0L5Wkj3UoGQmbbWZUFf8nHHa0XYbd4FH6ZrA==}
+  /vite-plugin-mkcert@1.16.0(vite@4.3.9):
+    resolution: {integrity: sha512-5r+g8SB9wZzLNUFekGwZo3e0P6QlS6rbxK5p9z/itxNAimsYohgjK/YfVPVxM9EuglP9hjridq0lUejo9v1nVg==}
     engines: {node: '>=v16.7.0'}
     peerDependencies:
       vite: '>=3'
