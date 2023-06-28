@@ -27,7 +27,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "vite-plugin-mkcert": "1.15.0",
+    "vite-plugin-mkcert": "1.16.0",
     "vite-tsconfig-paths": "4.2.0"
   },
   "devDependencies": {
